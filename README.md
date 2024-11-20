@@ -4,12 +4,24 @@
 <br>
 <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quokkalover&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quokkalover&show_icons=true&theme=radical)
 <br>
-<br>
+<br> -->
+
+### 🛠 Stack
+#### Programming
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+
+#### Frameworks
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white)
 
   
-### Projects
+### 🎈 Projects
 
 [[2023.01 ~ 2023.05] Carrier - 드론-모바일 로봇 분리합체형 시스템](https://github.com/7drone/carrier_ros)
 
